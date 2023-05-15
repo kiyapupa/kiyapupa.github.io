@@ -1,5 +1,5 @@
 ---
-title: "kiyapupa.github.io"
+title: Kiya Pupa
 ---
 
 This is a Quarto website.
