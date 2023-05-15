@@ -19,18 +19,6 @@ Hello!
 
 Thanks for visiting my personal website. My name is Rylee Pupa.
 
-## Education
-
-University of California, Santa Barbara \| Santa Barbara, CA \|
-Bachelor of Science in Environmental Studies \| Sept 2019 - June 2023
-
-## Experience
-UCSB Clean Energy Transformation Lab \| Research Assistant \| April 2022 - Current
-
-UCSB Wildfire Resilience Initiative \| Research Assistant \| January 2023 - Current
-
-National Center of Ecological Analysis and Synthesis | Administrative Assistance | May 2022 - August 2022
-
 ```{r}
 
 ```

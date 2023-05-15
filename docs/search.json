@@ -7,24 +7,17 @@
     "text": "Hello!\nThanks for visiting my personal website. My name is Rylee Pupa."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Kiya Pupa",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Santa Barbara | Santa Barbara, CA | Bachelor of Science in Environmental Studies | Sept 2019 - June 2023"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Kiya Pupa",
-    "section": "Experience",
-    "text": "Experience\nUCSB Clean Energy Transformation Lab | Research Assistant | April 2022 - Current\nUCSB Wildfire Resilience Initiative | Research Assistant | January 2023 - Current\nNational Center of Ecological Analysis and Synthesis | Administrative Assistance | May 2022 - August 2022"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "A little about my experience\n## Education\nUniversity of California, Santa Barbara | Santa Barbara, CA | Bachelor of Science in Environmental Studies | Sept 2019 - June 2023"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nUCSB Clean Energy Transformation Lab | Research Assistant | April 2022 - Current\nUCSB Wildfire Resilience Initiative | Research Assistant | January 2023 - Current\nNational Center of Ecological Analysis and Synthesis | Administrative Assistance | May 2022 - August 2022"
   }
 ]
