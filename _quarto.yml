@@ -1,9 +1,9 @@
 project:
-  type: "Kiya Pupa"
+  type: website
   output-dir: docs
 
 website:
-  title: "kiyapupa.github.io"
+  title: "Kiya Pupa"
   navbar:
     left:
       - href: index.qmd
