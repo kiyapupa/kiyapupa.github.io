@@ -3,7 +3,7 @@ title: Kiya Pupa
 about: 
   template: broadside
   image: IMG_2032.jpg
-  image-shape: rectangle
+  image-shape: rounded
   image-width: 22em
   links: 
     - text: LinkedIn
@@ -18,7 +18,3 @@ about:
 Hello!
 
 Thanks for visiting my personal website. My name is Rylee Pupa.
-
-```{r}
-
-```
