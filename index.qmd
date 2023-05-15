@@ -1,10 +1,29 @@
 ---
 title: Kiya Pupa
+about: 
+  template: broadside
+  image: IMG_2032.jpg
+  image-shape: round
+  image-width: 23em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/rylee-pupa
+    - text: GitHub
+      href: https://github.com/kiyapupa
+      
+    - text: Email
+      href: ryleepupa@ucsb.edu
 ---
 
-This is a Quarto website.
+Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Thanks for visiting my personal website. My name is Rylee Pupa.
+
+## Education
+
+University of California, Santa Barbara
+
+## Experience
 
 ```{r}
 
