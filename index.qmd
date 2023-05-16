@@ -3,14 +3,13 @@ title: Kiya Pupa
 about: 
   template: jolla
   image: IMG_2032.jpg
-  image-shape: rounded
+  image-shape: round
   image-width: 22em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/rylee-pupa
     - text: GitHub
       href: https://github.com/kiyapupa
-      
     - text: Email
       href: ryleepupa@ucsb.edu
 ---
