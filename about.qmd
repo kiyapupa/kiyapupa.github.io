@@ -1,17 +1,29 @@
 ---
-title: "About"
+title: "Background"
 ---
 
-A little about my experience
+## Coursework
 
-\## Education
-
-University of California, Santa Barbara \| Santa Barbara, CA \|
-Bachelor of Science in Environmental Studies \| Sept 2019 - June 2023
+Climate Change Mitigation Strategies, Environmental Impact Analysis, Green Building, Infrastructure and the Environment, Advanced Geographic Information Systems, GIS for Environmental Applications, Renewable Energy Systems, Environmental Toxicology, Exploring Water Data with R, Linear Algebra, Statistics, Calculus
 
 ## Experience
-UCSB Clean Energy Transformation Lab \| Research Assistant \| April 2022 - Current
 
-UCSB Wildfire Resilience Initiative \| Research Assistant \| January 2023 - Current
+**UCSB Clean Energy Transformation Lab** \| Research Assistant \| April 2022 - Current
 
-National Center of Ecological Analysis and Synthesis | Administrative Assistance | May 2022 - August 2022
+**UCSB Wildfire Resilience Initiative** \| Research Assistant \| January 2023 - Current
+
+**National Center of Ecological Analysis and Synthesis** \| Administrative Assistance \| May 2022 - August 2022
+
+**First Generation Peer Mentor** \| UCSB Educational Opportunity Program \|
+
+**Gaviota Coast Conservancy** \| Conservation Intern \| March 2020 - September 2021
+
+**Santa Barbara Sunrise Movement** \| Finance and Fundraising Team Lead \| June 2020 - July 2021
+
+**Board of Directors UCSB Coastal Fund** \| Undergraduate Representative \| March 2020-2021
+
+## Honors and Skills 
+
+**Honors:** Honors Program, Dean\'s List, Chancellor\'s Scholar, Ventura County Community Scholar
+
+**Skills:** ArcGIS Pro, Microsoft Office (Excel, Powerpoint, Word), Google Suite, Wordpress, Wix

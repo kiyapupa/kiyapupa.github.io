@@ -4,20 +4,34 @@
     "href": "index.html",
     "title": "Kiya Pupa",
     "section": "",
-    "text": "Hello!\nThanks for visiting my personal website. My name is Rylee Pupa."
+    "text": "Hello!\nThanks for visiting my personal website. My name is Rylee Pupa and I’m a senior Environmental Studies student at UC Santa Barbara. I’ll be graduating in Spring 2023 with a Bachelor of Science degree in Environmental Studies, with a concentration in Geographic Information Systems. After graduation I’ll be working as a GIS Intern on the Grid-Scale Renewables Team at ENGIE North America."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kiya Pupa",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Santa Barbara | Santa Barbara, CA | Bachelor of Science in Environmental Studies | GPA 3.9 | Sept 2019 - June 2023\nLund University | Lund, Sweden | GIS Exchange Semester | August 2022 – January 2023"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Background",
     "section": "",
-    "text": "A little about my experience\n## Education\nUniversity of California, Santa Barbara | Santa Barbara, CA | Bachelor of Science in Environmental Studies | Sept 2019 - June 2023"
+    "text": "Climate Change Mitigation Strategies, Environmental Impact Analysis, Green Building, Infrastructure and the Environment, Advanced Geographic Information Systems, GIS for Environmental Applications, Renewable Energy Systems, Environmental Toxicology, Exploring Water Data with R, Linear Algebra, Statistics, Calculus"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "About",
+    "title": "Background",
     "section": "Experience",
-    "text": "Experience\nUCSB Clean Energy Transformation Lab | Research Assistant | April 2022 - Current\nUCSB Wildfire Resilience Initiative | Research Assistant | January 2023 - Current\nNational Center of Ecological Analysis and Synthesis | Administrative Assistance | May 2022 - August 2022"
+    "text": "Experience\nUCSB Clean Energy Transformation Lab | Research Assistant | April 2022 - Current\nUCSB Wildfire Resilience Initiative | Research Assistant | January 2023 - Current\nNational Center of Ecological Analysis and Synthesis | Administrative Assistance | May 2022 - August 2022\nFirst Generation Peer Mentor | UCSB Educational Opportunity Program |\nGaviota Coast Conservancy | Conservation Intern | March 2020 - September 2021\nSanta Barbara Sunrise Movement | Finance and Fundraising Team Lead | June 2020 - July 2021\nBoard of Directors UCSB Coastal Fund | Undergraduate Representative | March 2020-2021"
+  },
+  {
+    "objectID": "about.html#honors-and-skills",
+    "href": "about.html#honors-and-skills",
+    "title": "Background",
+    "section": "Honors and Skills",
+    "text": "Honors and Skills\nHonors: Honors Program, Dean's List, Chancellor's Scholar, Ventura County Community Scholar\nSkills: ArcGIS Pro, Microsoft Office (Excel, Powerpoint, Word), Google Suite, Wordpress, Wix"
   }
 ]

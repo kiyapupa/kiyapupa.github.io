@@ -1,7 +1,7 @@
 ---
 title: Kiya Pupa
 about: 
-  template: broadside
+  template: jolla
   image: IMG_2032.jpg
   image-shape: rounded
   image-width: 22em
@@ -17,4 +17,10 @@ about:
 
 Hello!
 
-Thanks for visiting my personal website. My name is Rylee Pupa.
+Thanks for visiting my personal website. My name is Rylee Pupa and I'm a senior Environmental Studies student at UC Santa Barbara. I'll be graduating in Spring 2023 with a Bachelor of Science degree in Environmental Studies, with a concentration in Geographic Information Systems. After graduation I'll be working as a GIS Intern on the Grid-Scale Renewables Team at ENGIE North America.
+
+## Education
+
+**University of California, Santa Barbara** \| Santa Barbara, CA \| Bachelor of Science in Environmental Studies \| GPA 3.9 \| Sept 2019 - June 2023
+
+**Lund University** \| Lund, Sweden \| GIS Exchange Semester \| August 2022 -- January 2023
