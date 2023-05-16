@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - mywork.qmd
+      - carbonmarkets.qmd
 
 format:
   html:
