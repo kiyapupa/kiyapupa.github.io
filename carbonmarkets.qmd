@@ -35,7 +35,7 @@ The global carbon market has skyrocketed in recent years, with carbon pricing in
 
 Voluntary markets have also grown in size over recent years, largely due to private corporations including carbon offsets in their corporate social responsibility goals. Third party verification organizations issued [88%](https://www.worldbank.org/en/news/press-release/2022/05/24/global-carbon-pricing-generates-record-84-billion-in-revenue) more credits in 2021 than they did in 2020, around 362 million credits. However, the price of carbon credits in the voluntary market is drastically lower than the price of carbon credits in mandatory markets, with the average cost being \$3.82/tCO2eq. 
 
-According to a report by the High Level Commission on Carbon Pricing, carbon prices would need to be within the USD 50-100/tCO2e range in order to reach the 2°C essential decarbonization goal agreed on in the Paris agreement through carbon pricing. Currently, only 4% of carbon emissions are covered by a carbon price within this range. We wondered how much money would be generated if even just the United States implemented a nationwide carbon tax of this caliber. Based on the US GDP from 2021 and the sectors for which a carbon tax applies (energy, industry, transportation), the total revenue generated from implementing this carbon tax price range between \$241,212,600,000 and \$482,425,200,000 (See Supplementary Materials). To put this into perspective, that is 1-2% of the total current United States GDP. \
+According to a report by the High Level Commission on Carbon Pricing, carbon prices would need to be within the USD 50-100/tCO2e range in order to reach the 2°C essential decarbonization goal agreed on in the Paris agreement through carbon pricing. Currently, only 4% of carbon emissions are covered by a carbon price within this range. We wondered how much money would be generated if even just the United States implemented a nationwide carbon tax of this caliber. Based on the US GDP from 2021 and the sectors for which a carbon tax applies (energy, industry, transportation), the total revenue generated from implementing this carbon tax price range between \$241,212,600,000 and \$482,425,200,000 (See Supplementary Materials). To put this into perspective, that is 1-2% of the total current United States GDP. 
 
 -   **Who manages and holds people accountable in carbon markets?**
 
@@ -64,7 +64,7 @@ The COP27 talks in Egypt also didn't outline a way to ensure [transparency and o
 
 Carbon markets can have complex socioeconomic implications, and whether or not these implications are beneficial or harmful is dependent on effective land use planning, economic policies, and accountability standards. 
 
-Implementing a universal carbon price within carbon markets could be economically beneficial to developing countries because their dollar value is much lower, so they benefit more from the higher carbon pricing in richer countries. Due to their[ labor, land, and other living costs being lower](https://unctad.org/system/files/official-document/gdsmdpg2420084_en.pdf), they can profit immensely from universal standard carbon pricing, which allows for extensive innovation and low carbon development. However, carbon pricing and the profits that may ensue will need to be used in tandem with government action, regulatory standards, and technological development in order to effectively benefit developing countries. Expansion of[ research and development sectors](https://unctad.org/system/files/official-document/gdsmdpg2420084_en.pdf) will be necessary because it can take decades for low carbon technologies to be successful in a developing marketplace regardless of if the funds are available. 
+Implementing a universal carbon price within carbon markets could be economically beneficial to developing countries because their dollar value is much lower, so they benefit more from the higher carbon pricing in richer countries. Due to their[labor, land, and other living costs being lower](https://unctad.org/system/files/official-document/gdsmdpg2420084_en.pdf), they can profit immensely from universal standard carbon pricing, which allows for extensive innovation and low carbon development. However, carbon pricing and the profits that may ensue will need to be used in tandem with government action, regulatory standards, and technological development in order to effectively benefit developing countries. Expansion of[research and development sectors](https://unctad.org/system/files/official-document/gdsmdpg2420084_en.pdf) will be necessary because it can take decades for low carbon technologies to be successful in a developing marketplace regardless of if the funds are available. 
 
 Current forms of carbon pricing include carbon taxes and cap and trade programs. [Cap and trade systems](https://unctad.org/system/files/official-document/gdsmdpg2420084_en.pdf) reduce emissions in a predictable manner, but can make energy prices unstable. However, a carbon tax instead makes prices stable but [reduces certainty](https://unctad.org/system/files/official-document/gdsmdpg2420084_en.pdf) with emissions reductions. A universal carbon price, carbon taxes, and cap and trade programs can increase energy prices as carbon markets expand. Making carbon more expensive can result in an increase in energy costs and household costs such as [heating fuel, natural gas, food and electricity](https://www.rff.org/publications/explainers/carbon-pricing-104-economic-effects-across-income-groups/). The increases in energy prices and goods can disproportionately fall on the poor if effective economic policies are not in place.
 
@@ -100,7 +100,7 @@ In a world becoming increasingly aware of the mass societal transformation neces
 
 **Supplementary Materials**
 
-Total [US Emissions](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks#:~:text=In%202021%2C%20U.S.%20greenhouse%20gas,sequestration%20from%20the%20land%20sector) 2021 6347.7 million metric tons CO2eq 
+Total [US Emissions](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks#:~:text=In%202021%2C%20U.S.%20greenhouse%20gas,sequestration%20from%20the%20land%20sector) 2021: 6347.7 million metric tons CO2eq 
 
 Transportation 27% 
 
@@ -119,10 +119,8 @@ Industry 24%
 Cumulative emissions from three taxable sectors = 4824252000 tonnes CO₂eq
 
 4824252000 tonnes CO₂eq \* 50 USDtCO2eq= \$241,212,600,000\
-
 4824252000 tonnes CO₂eq \* 100 USDtCO2eq= \$482,425,200,000\
 
 241212600000  USD23320000000000 USD = 1.03% of US Economy (GDP)
 
-\
 482425200000 USD23320000000000 USD = 2.07% of US Economy (GDP)

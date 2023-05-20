@@ -1,10 +1,10 @@
 ---
 title: Kiya Pupa
 about: 
-  template: jolla
+  template: trestles
   image: IMG_2032.jpg
   image-shape: round
-  image-width: 22em
+  image-width: 24em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/rylee-pupa
@@ -14,12 +14,12 @@ about:
       href: ryleepupa@ucsb.edu
 ---
 
-Hello!
+### Hello!
 
-Thanks for visiting my personal website. My name is Rylee Pupa and I'm a senior Environmental Studies student at UC Santa Barbara. I'll be graduating in Spring 2023 with a Bachelor of Science degree in Environmental Studies, with a concentration in Geographic Information Systems. After graduation I'll be working as a GIS Intern on the Grid-Scale Renewables Team at ENGIE North America. Outside of my work, I love snowboarding, birdwatching, hiking, paddleboarding, and watching live music.
+Thanks for visiting my website. My name's Rylee and I'm a senior Environmental Studies student at UC Santa Barbara. I'll be graduating in Spring 2023 with a Bachelor of Science degree in Environmental Studies, with a concentration in Geographic Information Systems. After graduation, I'll be working as a GIS Intern on the Grid-Scale Renewables Team at ENGIE North America. Outside of work, I love snowboarding, birdwatching, hiking, paddleboarding, and dancing.
 
-## Education
+### Education
 
 **University of California, Santa Barbara** \| Santa Barbara, CA \| Bachelor of Science in Environmental Studies \| GPA 3.9 \| Sept 2019 - June 2023
 
-**Lund University** \| Lund, Sweden \| GIS Exchange Semester \| August 2022 -- January 2023
+**Lund University \| Lund, Sweden** \| GIS Exchange Semester \| August 2022 -- January 2023

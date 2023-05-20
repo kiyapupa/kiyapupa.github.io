@@ -1,0 +1,7 @@
+---
+title: "Iran GIS Project"
+---
+
+During my time studying abroad in Sweden, I completed a final project using ArcGIS to estimate the cost of maintaining road networks in Iran based on a variety of factors. This poster displays the conclusions that my group and I came to, and we won first place out of all the groups for our presentation of this project.
+
+![](images/Group12_FinalPoster.jpg){fig-align="left" width="1268"}

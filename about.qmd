@@ -2,25 +2,25 @@
 title: "Background"
 ---
 
-## Coursework
-
-Climate Change Mitigation Strategies, Environmental Impact Analysis, Green Building, Infrastructure and the Environment, Advanced Geographic Information Systems, GIS for Environmental Applications, Renewable Energy Systems, Environmental Toxicology, Exploring Water Data with R, Linear Algebra, Statistics, Calculus
-
 ## Experience
 
 **UCSB Clean Energy Transformation Lab** \| Research Assistant \| April 2022 - Current
 
 **UCSB Wildfire Resilience Initiative** \| Research Assistant \| January 2023 - Current
 
-**National Center of Ecological Analysis and Synthesis** \| Administrative Assistance \| May 2022 - August 2022
+**National Center of Ecological Analysis and Synthesis** \| Administrative Assistant \| May 2022 - August 2022
 
-**First Generation Peer Mentor** \| UCSB Educational Opportunity Program \|
+**First Generation Peer Mentor** \| UCSB Educational Opportunity Program \| February 2022 - May 2022
 
 **Gaviota Coast Conservancy** \| Conservation Intern \| March 2020 - September 2021
 
 **Santa Barbara Sunrise Movement** \| Finance and Fundraising Team Lead \| June 2020 - July 2021
 
 **Board of Directors UCSB Coastal Fund** \| Undergraduate Representative \| March 2020-2021
+
+## Coursework
+
+Climate Change Mitigation Strategies, Environmental Impact Analysis, Green Building, Infrastructure and the Environment, Advanced Geographic Information Systems, GIS for Environmental Applications, Renewable Energy Systems, Environmental Toxicology, Exploring Water Data with R, Linear Algebra, Statistics, Calculus
 
 ## Honors and Skills
 

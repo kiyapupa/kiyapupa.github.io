@@ -9,10 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - mywork.qmd
       - carbonmarkets.qmd
-      - Photography.qmd
-
+      - IranGIS.qmd
+  
 format:
   html:
     theme:

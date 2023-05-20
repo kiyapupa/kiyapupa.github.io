@@ -4,25 +4,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
 
 // Colors
-$light-sage-green: #D1D9CE;
-$dark-sage-green: #98A08D;
-$cream: #FDFBF7;
-$gray: #64605f;
-$light-gray: #949799;
-$purple: #AE8BD1;
+$midnight-blue: #191970;
+$lavender: #E6E6FA;
+$darkslategray3: #79CDCD;
+$darkslateblue: #483D8B;
+$gainsboro: #DCDCDC;
+$dodgerblue3: #1874CD;
+$aliceblue: #F0F8FF;
+$aquamarine4: #458B74;
+$peachpugg: #FFDAB9;
+$papayawhip: #FFEFD5;
+$floralwhite: #FFFAF0;
+$mintcream: #F5FFFA; 
+$darkslategrey: #2F4F4F;
+$seagreen: #2E8B57;
+$coral3: #CD5B45;
+$aquamarine1: #7FFFD4;
 
 // Base document colors
-$navbar-bg: $cream; // navbar
-$navbar-fg: $dark-sage-green; // navbar foreground elements
-$navbar-hl: $purple; // highlight color when hovering over navbar links
-$body-bg: $light-sage-green; // page background 
-$body-color: $gray; // page text 
-$footer-bg: $cream; // footer 
-$link-color: $purple; // hyperlinks 
+$navbar-bg: $aquamarine4; // navbar
+$navbar-fg: $mintcream; // navbar foreground elements?
+$navbar-hl: $aquamarine1; // highlight color when hovering over navbar links?
+
+$body-bg: $mintcream; // page background 
+$body-color: $seagreen; // page text 
+$footer-bg: $aquamarine4; // footer 
+
+$link-color: $midnight-blue; // hyperlinks 
 
 // Inline code
-$code-bg: $cream; // inline code background color
-$code-color: $purple; // inline code text color
+$code-bg: $midnight-blue; // inline code background color
+$code-color: $lavender; // inline code text color
 
 // Code blocks
-$code-block-bg: $cream; // code block background color
+$code-block-bg: $aquamarine4; // code block background color
