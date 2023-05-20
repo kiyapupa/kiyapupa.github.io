@@ -11,11 +11,14 @@ website:
       - about.qmd
       - mywork.qmd
       - carbonmarkets.qmd
+      - Photography.qmd
 
 format:
   html:
-    theme: minty
+    theme:
+      - styles.scss
     css: styles.css
+    mainfont: Sans Pro
     toc: true
     page-layout: full
 
