@@ -11,12 +11,12 @@ about:
     - text: GitHub
       href: https://github.com/kiyapupa
     - text: Email
-      href: ryleepupa@ucsb.edu
+      href: mailto:ryleepupa@ucsb.edu
 ---
 
 ### Hello!
 
-Thanks for visiting my website. My name's Rylee and I'm a senior Environmental Studies student at UC Santa Barbara. I'll be graduating in Spring 2023 with a Bachelor of Science degree in Environmental Studies, with a concentration in Geographic Information Systems. After graduation, I'll be working as a GIS Intern on the Grid-Scale Renewables Team at ENGIE North America. Outside of work, I love snowboarding, birdwatching, hiking, paddleboarding, and dancing.
+Thanks for visiting my website. My name's Rylee and I'm a senior Environmental Studies student at UC Santa Barbara. I'll be graduating in Spring 2023 with a Bachelor of Science degree in Environmental Studies, with a concentration in Geographic Information Systems. After graduation, I'll be working as a GIS Intern on the Grid-Scale Renewables Team at ENGIE North America. Outside of work, I love snowboarding, bird watching, hiking, paddle boarding, and dancing.
 
 ### Education
 
